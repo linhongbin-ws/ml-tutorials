@@ -6,3 +6,5 @@ tensor-flow-tutorials/hvass-lab/tf1/__pycache__/
 tensor-flow-tutorials/hvass-lab/tf1/.ipynb_checkpoints/
 
 tensor-flow-tutorials/hvass-lab/tf1/data/
+
+.vscode/
